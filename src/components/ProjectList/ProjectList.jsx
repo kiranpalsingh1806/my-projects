@@ -12,94 +12,37 @@ const ProjectList = () => {
                 <section className="cards">
                     <a href='https://flamboyant-wing-4bc731.netlify.app/' target="_blank">
                         <article>
-                            <img className="article-img" src="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" alt=" " />
+                            <img className="article-img" src="https://images.pexels.com/photos/1790556/pexels-photo-1790556.jpeg" alt=" " />
                             <h1 className="article-title">
                                 Movie Explorer App
                             </h1>
                         </article>
                     </a>
                     <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/914931/pexels-photo-914931.jpeg" />
+                        <img className="article-img" src="https://cdn.create.vista.com/api/media/medium/383670414/stock-photo-cheerful-young-man-chatting-smartphone" />
                         <h1 className="article-title">
                             Chatting Ground
                         </h1>
                     </article>
                     <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/768474/pexels-photo-768474.jpeg" alt=" " />
+                        <img className="article-img" src="https://www.garyvaynerchuk.com/wp-content/uploads/150624-The_Current_state_of_blogging_1200x628-01.png" alt=" " />
                         <h1 className="article-title">
                             Blog Website
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/4430242/pexels-photo-4430242.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Online Wallet
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
                         </h1>
                     </article>
                 </section>
 
                 <h1 className='project-types'>PHP and Laravel Projects</h1>
                 <section className="cards">
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
+                    <a href='https://github.com/kiranpalsingh1806/INT220-Server-Side-Scripting/tree/master/7-Others/Todo-List' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png" alt=" " />
+                            <h1 className="article-title">
+                                Todo List
+                            </h1>
+                        </article>
+                    </a>
+
                 </section>
                 <h1 className='project-types'>APIs</h1>
                 <section className="cards">
