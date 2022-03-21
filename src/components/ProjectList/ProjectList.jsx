@@ -112,6 +112,17 @@ const ProjectList = () => {
                         </article>
                     </a>
                 </section>
+                <h1 className='project-types'>Scrapers</h1>
+                <section className="cards">
+                    <a href='https://github.com/kiranpalsingh1806/web-scraper' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://www.promptcloud.com/wp-content/uploads/2020/05/Web-Scraping.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Actor API
+                            </h1>
+                        </article>
+                    </a>
+                </section>
             </main>
         </>
     );
