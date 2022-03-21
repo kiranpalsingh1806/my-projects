@@ -116,9 +116,9 @@ const ProjectList = () => {
                 <section className="cards">
                     <a href='https://github.com/kiranpalsingh1806/web-scraper' target="_blank">
                         <article>
-                            <img className="article-img" src="https://www.promptcloud.com/wp-content/uploads/2020/05/Web-Scraping.jpeg" alt=" " />
+                            <img className="article-img" src="https://images.pexels.com/photos/3944454/pexels-photo-3944454.jpeg" alt=" " />
                             <h1 className="article-title">
-                                Actor API
+                                News Scraper
                             </h1>
                         </article>
                     </a>
