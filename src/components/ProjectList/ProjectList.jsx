@@ -100,18 +100,17 @@ const ProjectList = () => {
                             Chatting Ground
                         </h1>
                     </article>
-                    <article>
-                        <img className="article-img" src="https://www.wearethemighty.com/uploads/legacy/assets.rbl.ms/18518401/origin.jpg" alt=" " />
-                        <h1 className="article-title">
-                            Movie Explorer App
-                        </h1>
-                    </article>
-                    <article>
-                        <img className="article-img" src="https://images.pexels.com/photos/2764669/pexels-photo-2764669.jpeg" alt=" " />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
+                </section>
+                <h1 className='project-types'>APIs</h1>
+                <section className="cards">
+                    <a href='https://flamboyant-wing-4bc731.netlify.app/' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.squarespace-cdn.com/content/v1/5ba435b8e666690c8f22d323/1582842361066-UDU5303DVFTUJAXT698N/acting+auditions" alt=" " />
+                            <h1 className="article-title">
+                                Actor API
+                            </h1>
+                        </article>
+                    </a>
                 </section>
             </main>
         </>
