@@ -60,6 +60,17 @@ const ProjectList = () => {
                         </article>
                     </a>
                 </section>
+                <h1 className='project-types'>Ongoing Projects</h1>
+                <section className="cards">
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo.png" alt=" " />
+                            <h1 className="article-title">
+                                Employee Watcher
+                            </h1>
+                        </article>
+                    </a>
+                </section>
             </main>
         </>
     );
