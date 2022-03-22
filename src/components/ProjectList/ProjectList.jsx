@@ -19,12 +19,6 @@ const ProjectList = () => {
                         </article>
                     </a>
                     <article>
-                        <img className="article-img" src="https://cdn.create.vista.com/api/media/medium/383670414/stock-photo-cheerful-young-man-chatting-smartphone" />
-                        <h1 className="article-title">
-                            Chatting Ground
-                        </h1>
-                    </article>
-                    <article>
                         <img className="article-img" src="https://www.garyvaynerchuk.com/wp-content/uploads/150624-The_Current_state_of_blogging_1200x628-01.png" alt=" " />
                         <h1 className="article-title">
                             Blog Website
