@@ -64,7 +64,7 @@ const ProjectList = () => {
                 <section className="cards">
                     <a href='' target="_blank">
                         <article>
-                            <img className="article-img" src="https://guiltyparties.com/wp-content/uploads/2020/06/MySQL-Logo.png" alt=" " />
+                            <img className="article-img" src="https://www.biospace.com/getasset/c021d98d-9223-4415-89c5-1da58ad6c617/" alt=" " />
                             <h1 className="article-title">
                                 Employee Watcher
                             </h1>
