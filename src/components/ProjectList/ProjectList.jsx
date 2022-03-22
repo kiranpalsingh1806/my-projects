@@ -40,7 +40,7 @@ const ProjectList = () => {
                 </section>
                 <h1 className='project-types'>APIs</h1>
                 <section className="cards">
-                    <a href='https://flamboyant-wing-4bc731.netlify.app/' target="_blank">
+                    <a href='https://the-actor-api.herokuapp.com/actor' target="_blank">
                         <article>
                             <img className="article-img" src="https://images.squarespace-cdn.com/content/v1/5ba435b8e666690c8f22d323/1582842361066-UDU5303DVFTUJAXT698N/acting+auditions" alt=" " />
                             <h1 className="article-title">
