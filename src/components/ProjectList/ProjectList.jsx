@@ -38,6 +38,18 @@ const ProjectList = () => {
                     </a>
 
                 </section>
+                <h1 className='project-types'>MySQL</h1>
+                <section className="cards">
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/3184394/pexels-photo-3184394.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Employee Watcher
+                            </h1>
+                        </article>
+                    </a>
+
+                </section>
                 <h1 className='project-types'>APIs</h1>
                 <section className="cards">
                     <a href='https://the-actor-api.herokuapp.com/actor' target="_blank">
@@ -64,9 +76,9 @@ const ProjectList = () => {
                 <section className="cards">
                     <a href='' target="_blank">
                         <article>
-                            <img className="article-img" src="https://images.pexels.com/photos/3184394/pexels-photo-3184394.jpeg" alt=" " />
+                            <img className="article-img" src="https://images.pexels.com/photos/248533/pexels-photo-248533.jpeg" alt=" " />
                             <h1 className="article-title">
-                                Employee Watcher
+                                Instagram Clone
                             </h1>
                         </article>
                     </a>
