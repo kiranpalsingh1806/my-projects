@@ -82,6 +82,41 @@ const ProjectList = () => {
                             </h1>
                         </article>
                     </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/9331326/pexels-photo-9331326.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Map Route Finder
+                            </h1>
+                        </article>
+                    </a>
+                </section>
+                <h1 className='project-types'>Project Ideas</h1>
+                <section className="cards">
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Development Dairy
+                            </h1>
+                        </article>
+                    </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://gamipress.com/wp-content/uploads/2018/12/leaderboards.svg" alt=" " />
+                            <h1 className="article-title">
+                                Leaderboard App
+                            </h1>
+                        </article>
+                    </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                The Fact Planet
+                            </h1>
+                        </article>
+                    </a>
                 </section>
             </main>
         </>
