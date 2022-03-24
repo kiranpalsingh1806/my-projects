@@ -60,6 +60,14 @@ const ProjectList = () => {
                             </h1>
                         </article>
                     </a>
+                    <a href='https://the-climate-news-api.herokuapp.com/news' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/242492/pexels-photo-242492.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Climate News API
+                            </h1>
+                        </article>
+                    </a>
                 </section>
                 <h1 className='project-types'>Scrapers</h1>
                 <section className="cards">
@@ -84,9 +92,17 @@ const ProjectList = () => {
                     </a>
                     <a href='' target="_blank">
                         <article>
-                            <img className="article-img" src="https://images.pexels.com/photos/9331326/pexels-photo-9331326.jpeg" alt=" " />
+                            <img className="article-img" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2018/07/new-apple-maps-comp.jpg" alt=" " />
                             <h1 className="article-title">
                                 Map Route Finder
+                            </h1>
+                        </article>
+                    </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://www.seniorlifestyle.com/wp-content/uploads/2013/09/iStock_000005385085Medium.jpg" alt=" " />
+                            <h1 className="article-title">
+                                Sudoku Solver
                             </h1>
                         </article>
                     </a>
