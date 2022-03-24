@@ -62,7 +62,7 @@ const ProjectList = () => {
                     </a>
                     <a href='https://the-climate-news-api.herokuapp.com/news' target="_blank">
                         <article>
-                            <img className="article-img" src="https://images.pexels.com/photos/242492/pexels-photo-242492.jpeg" alt=" " />
+                            <img className="article-img" src="https://images.pexels.com/photos/60013/desert-drought-dehydrated-clay-soil-60013.jpeg" alt=" " />
                             <h1 className="article-title">
                                 Climate News API
                             </h1>
