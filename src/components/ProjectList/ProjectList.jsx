@@ -44,18 +44,6 @@ const ProjectList = () => {
                     </a>
                 </section>
 
-                <h1 className='project-types'>PHP and Laravel Projects</h1>
-                <section className="cards">
-                    <a href='https://github.com/kiranpalsingh1806/INT220-Server-Side-Scripting/tree/master/7-Others/Todo-List' target="_blank">
-                        <article>
-                            <img className="article-img" src="https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png" alt=" " />
-                            <h1 className="article-title">
-                                Todo List
-                            </h1>
-                        </article>
-                    </a>
-
-                </section>
                 <h1 className='project-types'>MySQL</h1>
                 <section className="cards">
                     <a href='' target="_blank">
