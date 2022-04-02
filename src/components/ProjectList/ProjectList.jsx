@@ -8,7 +8,7 @@ const ProjectList = () => {
             <main>
                 <section className="leading">
                 </section>
-                <h1 className='project-types'>React JS Projects</h1>
+                <h1 className='project-types'> Web Development Projects</h1>
                 <section className="cards">
                     <a href='https://flamboyant-wing-4bc731.netlify.app/' target="_blank">
                         <article>
@@ -18,12 +18,30 @@ const ProjectList = () => {
                             </h1>
                         </article>
                     </a>
-                    <article>
-                        <img className="article-img" src="https://www.garyvaynerchuk.com/wp-content/uploads/150624-The_Current_state_of_blogging_1200x628-01.png" alt=" " />
-                        <h1 className="article-title">
-                            Blog Website
-                        </h1>
-                    </article>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/248533/pexels-photo-248533.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Instagram Clone
+                            </h1>
+                        </article>
+                    </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Blog Website
+                            </h1>
+                        </article>
+                    </a>
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2018/07/new-apple-maps-comp.jpg" alt=" " />
+                            <h1 className="article-title">
+                                Map Route Finder
+                            </h1>
+                        </article>
+                    </a>
                 </section>
 
                 <h1 className='project-types'>PHP and Laravel Projects</h1>
@@ -84,22 +102,6 @@ const ProjectList = () => {
                 <section className="cards">
                     <a href='' target="_blank">
                         <article>
-                            <img className="article-img" src="https://images.pexels.com/photos/248533/pexels-photo-248533.jpeg" alt=" " />
-                            <h1 className="article-title">
-                                Instagram Clone
-                            </h1>
-                        </article>
-                    </a>
-                    <a href='' target="_blank">
-                        <article>
-                            <img className="article-img" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2018/07/new-apple-maps-comp.jpg" alt=" " />
-                            <h1 className="article-title">
-                                Map Route Finder
-                            </h1>
-                        </article>
-                    </a>
-                    <a href='' target="_blank">
-                        <article>
                             <img className="article-img" src="https://www.seniorlifestyle.com/wp-content/uploads/2013/09/iStock_000005385085Medium.jpg" alt=" " />
                             <h1 className="article-title">
                                 Sudoku Solver
@@ -130,6 +132,17 @@ const ProjectList = () => {
                             <img className="article-img" src="https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg" alt=" " />
                             <h1 className="article-title">
                                 The Fact Planet
+                            </h1>
+                        </article>
+                    </a>
+                </section>
+                <h1 className='project-types'>Mini Educational Projects</h1>
+                <section className="cards">
+                    <a href='' target="_blank">
+                        <article>
+                            <img className="article-img" src="https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg" alt=" " />
+                            <h1 className="article-title">
+                                Weather App
                             </h1>
                         </article>
                     </a>
